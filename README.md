@@ -1,6 +1,6 @@
 > ⚠️ Be careful forking this project! I offer no promises of stability.
 # WizardPong
-> Created with [MonoGame](http://www.monogame.net) for cross-platform comptability and Visual Studio
+Created with [MonoGame](http://www.monogame.net) for cross-platform comptability and Visual Studio.
 
 ## Overview
 In this twist on pong, Wizards battle to get a "care package" into the opponent's portal. However, each Wizard has special abilties that change the balance of the game!
