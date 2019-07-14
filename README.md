@@ -3,7 +3,7 @@
 Created with [MonoGame](http://www.monogame.net) for cross-platform comptability and Visual Studio.
 
 ## Overview
-In this twist on pong, Wizards battle to get a "care package" into the opponent's portal. However, each Wizard has special abilties that change the balance of the game!
+In this twist on pong, Wizards battle to get a "care package" into the opponent's portal. However, each Wizard has special abilities that change the balance of the game!
 
 This game supports one or two players. Each player has a wizard that can interact and manipulate the playing field using certain powers. These powers can also influence the other players. Try to get the care package into the portal blocked by the other wizard to support your army!
 
